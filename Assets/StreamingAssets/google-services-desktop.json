@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "766630164217",
+    "firebase_url": "https://sunnyside-world-89a5c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sunnyside-world-89a5c",
+    "storage_bucket": "sunnyside-world-89a5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766630164217:android:5d24a0589600d36322d428",
+        "android_client_info": {
+          "package_name": "com.questionmark.sunnyside_world"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEF_-1EL4BOUmYVQCUcYBWMiuO_5AJnho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
